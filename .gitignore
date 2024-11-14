@@ -15,3 +15,7 @@ wp-content/backups/
 
 # Ignorar arquivos sensíveis como chaves ou credenciais
 .env
+
+wp-config.php
+
+htaccess
